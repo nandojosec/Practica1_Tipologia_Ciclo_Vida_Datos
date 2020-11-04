@@ -1,6 +1,7 @@
 # Practica1_Tipologia_Ciclo_Vida_Datos
 Autores del proyecto:
 *Hubner Janampa Patilla
+
 *José Fernando Castillo A.
 
 Este Wiki contiene los siguientes ficheros:
